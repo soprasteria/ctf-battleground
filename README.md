@@ -10,6 +10,8 @@ Capture The Flag Battleground aim to have real infrastructure environment on whi
 First session of CTF Battleground Wednesday 22th November 2018.
 The Battleground will be generated on Amazon AWS, the SIEM will be Splunk Enterprise.
 
+[Read the story](chapter1)
+
 ## Infrastructure Team
 The infrastructure team is in charge to generate the battleground which is an infrastructure for the battle.
 This infrastructure must push all the data to a SIEM for the defense part (Blue Team).
