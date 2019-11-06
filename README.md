@@ -2,7 +2,7 @@
 
 Capture The Flag Battleground aim to have real infrastructure environment on which 2 teams fights one to attack (Red Team) the infrastructure and one to detect (Bleu Team) the attacks.
 
-[ctfbtg]: ctfbtg.jpg
+![ctfbtg](ctfbtg.jpg)
 
 ## Chapters
 
